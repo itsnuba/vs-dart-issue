@@ -1,0 +1,7 @@
+name: test
+description: test
+version: 0.0.1
+author: Nabih Ubadah <its.nuba@gmail.com>
+
+environment:
+  sdk: ">=2.5.0 <3.0.0"
